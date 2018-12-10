@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Monte Carlo Path Renderer"
+date: 2018-07-30
+author:
+meta: Seasons of Code, WnCC, Summer 2018
+comments: false
+---
+
+<a href="https://github.com/wncc/revati-rt" >[Code]</a>
+
+A path tracer is a kind of renderer in computer graphics. A renderer is responsible for generating the image or the graphics that you see on your screen. Even this text that you are reading is displayed via a font renderer. Path tracers are often used for photorealistic rendering, which means generating an image indistinguishable from a photograph. I have implemented a ray tracer able to handle point light sources and objects like sphere, cone and cylinder. Also, surface shading and recursive ray tracing algorithm are implemented to capture higher order light paths. I will be building a Monte Carlo path tracing system to achieve effects like soft shadows and color bleeding.

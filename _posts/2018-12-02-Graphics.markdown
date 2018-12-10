@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Graphics - Modelling, Rendering and Animation"
+date: 2018-12-02
+author: with Sukanya
+meta: Course Project for CS475 - Computer Graphics, Autumn 2018
+comments: false
+---
+<a href="https://github.com/Computer-Graphics-IITB/a3-animate-174050012_150050040" >[Code]</a>
+
+In this assignment, a short film with the music box lying closed in a room is created. The animation shows the music box to open, and two figures that dance to a tune pop out and move to the music. Finally, the box closes again. The modelling involves creating all the models, creating the scene with other elements.Also, lighting and texture is added. Then, we script the animation, add music and then generate the movie. Finally we add camera animation and character animation. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9IwyA2sZ44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
