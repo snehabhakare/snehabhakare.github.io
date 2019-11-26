@@ -3,8 +3,30 @@ layout: default
 title: Projects
 ---
 
+### Path Tracer
+Course Assignments for CS6620, Ray Tracing for Graphics
+
+[Code](https://github.com/snehabhakare/Ray_Tracer)
+
+Built a ray tracer using path tracing to shade glossy reflective and refractive surfaces with area lights to simulate soft shadows. Also, implemented texture filtering, anti-aliasing, depth of field rendering and BVH acceleration structure to improve performance. The results of the assignments are as follows:
+
+1. [Ray Casting](http://www.cs.utah.edu/~snehab/courses/cs6620/prj1.html)
+2. [Shading](http://www.cs.utah.edu/~snehab/courses/cs6620/prj2.html)
+3. [Shadows](http://www.cs.utah.edu/~snehab/courses/cs6620/prj3.html)
+4. [Reflections and Refractions](http://www.cs.utah.edu/~snehab/courses/cs6620/prj4.html)
+5. [Triangular Meshes](http://www.cs.utah.edu/~snehab/courses/cs6620/prj5.html)
+6. [Space Partitioning](http://www.cs.utah.edu/~snehab/courses/cs6620/prj6.html)
+7. [Textures](http://www.cs.utah.edu/~snehab/courses/cs6620/prj7.html)
+8. [Antialiasing](http://www.cs.utah.edu/~snehab/courses/cs6620/prj8.html)
+9. [Depth of Field](http://www.cs.utah.edu/~snehab/courses/cs6620/prj9.html)
+10. [Soft Shadows and Glossy Surfaces](http://www.cs.utah.edu/~snehab/courses/cs6620/prj10.html)
+11. [Monte Carlo Global Illumination](http://www.cs.utah.edu/~snehab/courses/cs6620/prj11.html)
+12. [Path Tracer](http://www.cs.utah.edu/~snehab/courses/cs6620/prj12.html)
+
 ### Coherent Rendering for Augmented Reality
 Undergraduate Thesis, IIT Bombay
+
+[report](/docs/btp_report.pdf)
 
 Coherent Rendering for Augmented Reality is concerned with seamlessly blending the virtual world and real world in real time. We are interested in applying real-world light to virtual objects. This implies the measurement of the real-world lighting, also known as photometric registration. In this project we implement a method to estimate high quality illumination using convolutional neural networks (CNNs). Our represention of light model of real world is based on spherical harmonics representation. The aim of this project is to make augmentations photorealistic while removing any constraints in the environment.
 
