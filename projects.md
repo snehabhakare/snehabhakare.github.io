@@ -3,7 +3,7 @@ layout: default
 title: Projects
 ---
 
-### Path Tracer
+### Ray Tracer
 Course Assignments for CS6620, Ray Tracing for Graphics
 
 [Code](https://github.com/snehabhakare/Ray_Tracer)
